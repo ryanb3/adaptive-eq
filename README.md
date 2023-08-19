@@ -38,8 +38,8 @@ Please review our [Contribution Guidelines](CONTRIBUTING.md) before getting star
 ## Community
 Join our friendly community of audio enthusiasts, developers, and music lovers! Feel free to:
 
-- Ask questions or seek help in our [Discussions](https://github.com/your-username/adaptive-eq/discussions).
-- Participate in our [Issue Tracker](https://github.com/your-username/adaptive-eq/issues) to report bugs or suggest features.
+- Ask questions or seek help in our [Discussions](https://github.com/ryanb3/adaptive-eq/discussions).
+- Participate in our [Issue Tracker](https://github.com/ryanb3/adaptive-eq/issues) to report bugs or suggest features.
 - Join the conversation on our [Ryan Studios Discord](https://discord.gg/ryan-studios) server.
 
 ## Stay Tuned
